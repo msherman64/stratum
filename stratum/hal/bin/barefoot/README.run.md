@@ -97,7 +97,7 @@ If you re-image your switch (reload ONL via ONIE), you will need to run these co
 
 ### Upload start script to the switch
 
-You can upload the [start-stratum-container.sh](./docker/start-stratum-container-sh)
+You can upload the [start-stratum-container.sh](./docker/start-stratum-container.sh)
 convenience script to the switch to more easily start the container.
 
 ### Start the Stratum container
